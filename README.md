@@ -1,0 +1,2 @@
+# AspNetCore_InMemoryOrRedis
+AspNetCore_InMemoryOrRedis
